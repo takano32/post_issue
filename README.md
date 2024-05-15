@@ -2,6 +2,6 @@
 
 ```
 $ bundle install
-$ bundle exec post_issue.rb < issue.txt
+$ bundle exec ruby post_issue.rb < issue.txt
 ```
 
